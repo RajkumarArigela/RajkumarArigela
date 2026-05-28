@@ -79,7 +79,7 @@ I'm **actively looking for Data Science / ML Engineer roles** where I can bring 
 
 If you're working on something interesting — or hiring — let's talk:
 
-- 📧 **Email:** therajkumararigela.email@gmail.com
+- 📧 **Email:** therajkumararigela@gmail.com
 - 💼 **LinkedIn:** [wwww.linkedin.com/in/rajkumararigela](www.linkedin.com/in/rajkumar-arigela)
   
 
