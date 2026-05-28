@@ -3,9 +3,7 @@
 <p align="center">
   <em>Data Scientist & ML Engineer · Turning raw data into decisions that matter</em>
 </p>
-
 <p align="center">
-  **Email:** therajkumararigela@gmail.com
   <a href="https://www.linkedin.com/in/rajkumar-arigela">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
