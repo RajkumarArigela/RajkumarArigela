@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:therajkumararigela.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rajkumararigela"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/rajkumar-arigela"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/RajkumarArigela"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -80,7 +80,7 @@ I'm **actively looking for Data Science / ML Engineer roles** where I can bring 
 If you're working on something interesting — or hiring — let's talk:
 
 - 📧 **Email:** therajkumararigela.email@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/rajkumararigela](https://linkedin.com/in/rajkumararigela)
+- 💼 **LinkedIn:** [wwww.linkedin.com/in/rajkumararigela](www.linkedin.com/in/rajkumar-arigela)
   
 
 ---
