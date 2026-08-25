@@ -1,99 +1,181 @@
-<h1 align="center">Hey, I'm Rajkumar Arigela 👋</h1>
+ <h1 align="center">Hi, I'm Raj Kumar Arigela </h1>
 
 <p align="center">
-  <em>Data Scientist & ML Engineer · Turning raw data into decisions that matter</em>
+  <strong>Data Scientist | Machine Learning | Generative AI | LLMs | Python | SQL</strong>
 </p>
+
+<p align="center">
+  Building data-driven solutions, predictive models, and AI-powered applications.
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/rajkumar-arigela">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-  <a href="https://github.com/RajkumarArigela"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/RajkumarArigela">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:therajkumararigela@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🧭 My Story
+##  Who I Am
 
-I didn't start with a passion for data — I started with a question: *why do smart decisions so often feel like guesswork?*
+I am a **Data Scientist** with hands-on experience in **Python, SQL, Machine Learning, statistical analysis, Generative AI, and LLM-based applications**.
 
-That curiosity led me down a path of digging through datasets, building pipelines, and training models that help answer the questions businesses actually care about. Today, I work at the intersection of **data engineering, machine learning, and storytelling** — making sure numbers don't just sit in spreadsheets, but drive real outcomes.
+Currently, I work as an **Associate – Data Scientist at Wipro Limited** on the **Google Waymo Geospatial Project**, working with large-scale structured and unstructured datasets, data quality validation, statistical analysis, and data processing pipelines.
 
-When I'm not wrangling data, I'm learning something new, breaking a model to understand it better, or documenting my journey so others don't hit the same walls I did.
+Previously, I worked as a **Data Analyst Intern at Bluestock Fintech** on the **N100 Financial Intelligence Platform**, where I worked on ETL pipelines, SQL data modeling, predictive analytics, NLP, clustering, REST APIs, Power BI dashboards, and automated reporting.
 
 ---
 
-## 🛠️ What I Work With
+## 💼 Current Experience
 
-**Languages & Data**
+### Data Analyst Intern | Bluestock Fintech
+
+**N100 Financial Intelligence Platform | Remote**
+
+- ETL pipelines and SQL star-schema databases
+- Financial data analysis and predictive modeling
+- Statistical analysis and feature engineering
+- NLP and clustering
+- REST API development
+- Power BI dashboards
+- Automated PDF reporting
+
+---
+
+##  Technical Stack
+
+### Programming & Data Science
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Visualization & BI**
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-
-**Machine Learning**
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**Tools & Workflow**
+**Python · SQL · Pandas · NumPy · Scikit-learn · EDA · Feature Engineering · Predictive Modeling · Statistical Analysis · Statistical Inference**
+
+### Generative AI & LLMs
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Generative AI · LLMs · RAG Pipelines · LangChain · Prompt Engineering · Agentic AI · OpenAI APIs · Semantic Search · Embeddings · NLP · Chatbot Development**
+
+### Data Analytics & Visualization
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Power BI · Matplotlib · Seaborn · Google Data Studio · Streamlit · Advanced Excel · Google Sheets**
+
+### Databases & Data Engineering
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+
+**MySQL · SQLite · BigQuery · Snowflake · ETL · SQL Data Modeling · Star Schema · Data Quality Validation**
+
+### Development & Cloud
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+**Git · GitHub · FastAPI · Flask · Docker · Microsoft Azure · Google Cloud Platform · BigQuery**
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 📊 Farmers Insurance] — Sales Forecasting Dashboard
-> Built an end-to-end pipeline that cleaned, modeled, and visualized 2 years of sales data — reducing forecast error by 60%.  
-> `Python` `SQL` `Power BI` `Linear Regression`
+###  RAG Resume Analyzer
 
-### 🧠 [Customer_behaviourAnalysis] — Customer Churn Prediction
-> Trained a classification model on 50K+ customer records to flag at-risk users with 87% accuracy.  
-> `Python` `Pandas` `Scikit-learn` `Logistic Regression`
+**Python · LangChain · LLMs · RAG · Vector Database · Streamlit**
 
-### 📈 [Newyorkcity-taxirecords] — EDA & Storytelling with Data
-> Deep-dive exploratory analysis with actionable insights presented as a Tableau dashboard.  
-> `Python` `Tableau` `Seaborn` `Pandas`
+🔗 [GitHub Repository](https://github.com/RajkumarArigela/rag-resume-analyzer)
 
-> 📌 https://github.com/RajkumarArigela/EDA_Assgn_by_RAJKUMAR/tree/main
+- Built a RAG-based AI application for intelligent document analysis.
+- Implemented semantic search using embeddings.
+- Applied prompt engineering to optimize LLM responses.
+- Developed a knowledge management workflow for unstructured documents.
+
+###  AI SQL Data Analyst
+
+**Python · SQL · OpenAI API · LLMs · Pandas · Matplotlib**
+
+🔗 [GitHub Repository](https://github.com/RajkumarArigela/AI-SQL-Data-Analyst)
+
+- Developed an AI-powered application for converting natural-language questions into SQL.
+- Automated data collection, analysis, and visualization workflows.
+- Integrated OpenAI APIs and prompt engineering.
+- Performed EDA and generated data visualizations.
+
+###  NYC Taxi Data Analysis
+
+**Python · Pandas · Seaborn · Data Analysis**
+
+🔗 [GitHub Repository](https://github.com/RajkumarArigela/EDA_Assgn_by_RAJKUMAR)
+
+- Performed exploratory data analysis on NYC taxi data.
+- Identified patterns and trends within transportation data.
+- Used Python-based analysis and visualization to communicate insights.
 
 ---
 
-## 📚 Currently Learning
+##  Certifications
 
-- 🔍 Advanced SQL (window functions, CTEs, optimization)
-- 🤖 ML model deployment with Flask & Streamlit
-- 📦 Feature engineering best practices
-- ☁️ Cloud basics: AWS / GCP for data workflows
+- **Microsoft Azure Data Scientist Associate**
+- **Google Gemini for Data Scientists**
+- **Google BigQuery**
 
 ---
 
-## 📬 Let's Connect
+##  Education
 
-I'm **actively looking for Data Science / ML Engineer roles** where I can bring curiosity, technical skill, and a storytelling mindset to the team.
+**Advanced Certification in Data Science & Machine Learning**  
+IIIT Bangalore  
+Business Intelligence & Data Analytics  
+**GPA: 3.7 / 4.0**
 
-If you're working on something interesting — or hiring — let's talk:
+**B.Sc Computer Science**  
+Girraj Government College, Nizamabad | Telangana University  
+**Graduated: 2025** 
 
-- 📧 **Email:** therajkumararigela@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/rajkumar-arigela](https://www.linkedin.com/in/rajkumar-arigela)
-  
+---
+
+##  Open to Opportunities
+
+I am interested in opportunities in:
+
+**Data Science · Data Analytics · Machine Learning · AI/ML Engineering · Generative AI · Applied AI · Data Engineering**
+
+I enjoy working on real-world problems involving **data analysis, predictive modeling, machine learning, LLM applications, RAG systems, SQL, and scalable data workflows**.
+
+---
+
+##  Contact
+
+ **Email:** [therajkumararigela@gmail.com](mailto:therajkumararigela@gmail.com)
+
+ **LinkedIn:** [linkedin.com/in/rajkumar-arigela](https://www.linkedin.com/in/rajkumar-arigela)
+
+ **GitHub:** [github.com/RajkumarArigela](https://github.com/RajkumarArigela)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajkumarArigela&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajkumarArigela&layout=compact&theme=default&hide_border=true" height="150" />
+  <strong>Data → Insights → Intelligence → Impact</strong>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RajkumarArigela&style=flat-square&color=blue" alt="Profile views" />
-</p>
-
----
-
-<p align="center"><em>"Data is not information, information is not knowledge, knowledge is not wisdom." — Clifford Stoll</em></p>
