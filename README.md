@@ -26,7 +26,7 @@
 
 I am a **Data Scientist** with hands-on experience in **Python, SQL, Machine Learning, statistical analysis, Generative AI, and LLM-based applications**.
 
-Currently, I work as an **Associate – Data Scientist at Wipro Limited** on the **Google Waymo Geospatial Project**, working with large-scale structured and unstructured datasets, data quality validation, statistical analysis, and data processing pipelines.
+Currently, I work as an **Analyst at Wipro Limited** on the **Google Waymo Geospatial Project**, working with large-scale structured and unstructured datasets, data quality validation, statistical analysis, and data processing pipelines.
 
 Previously, I worked as a **Data Analyst Intern at Bluestock Fintech** on the **N100 Financial Intelligence Platform**, where I worked on ETL pipelines, SQL data modeling, predictive analytics, NLP, clustering, REST APIs, Power BI dashboards, and automated reporting.
 
